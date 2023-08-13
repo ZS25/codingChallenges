@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Check if an input number is a Palindrome
+ * Test data: 969969, 942249, 121
  */
 class Palindrome {
     public static void main(String[] args) {
